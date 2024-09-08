@@ -16,8 +16,3 @@ Three models, **XGBoost**, **LightGBM**, and **Random Forest**, were selected fo
 - **XGBoost**: Excelled in predictive accuracy but was slower in training compared to LightGBM.
 - **LightGBM**: Offered a great balance between speed and performance, making it ideal for large datasets.
 - **Random Forest**: Provided robust results but lacked the fine-tuning capabilities of gradient boosting models.
-
-## How to Run
-1. Clone the repository.
-   ```bash
-   git clone https://github.com/your-repo/healthcare-cost-prediction.git
